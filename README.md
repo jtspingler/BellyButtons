@@ -6,4 +6,4 @@ We used D3 library to read in our sample data in samples.json. From this data we
 
 
 ### Resources Utilized to Complete Analysis
-[Github](https://github.com/jtspingler/bellybuttons), 
+[Github](https://github.com/jtspingler/bellybuttons) 
