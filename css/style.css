@@ -1,21 +1,21 @@
 .jumbotron h1 {
-    color:aliceblue
+    color:rgb(240, 255, 247)
 }
 
 .jumbotron p {
-    color:aliceblue
+    color:rgb(252, 255, 240)
 }
 
 .white-text h2 {
-    color: aliceblue;
+    color: rgb(251, 240, 255);
 }
 
 .aliceblue-text p {
-    color: aliceblue;
+    color: rgb(255, 246, 240);
 }
 
 .col-md-12 p {
-    color: aliceblue;
+    color: rgb(255, 240, 240);
 }
 
 body {
